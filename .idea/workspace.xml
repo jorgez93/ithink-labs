@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4185f07-3034-4a23-a8b6-00979a378322" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/public/imagenes/cap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/public/imagenes/capt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/public/imagenes/capte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/public/imagenes/carta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/public/imagenes/cert.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/public/imagenes/des.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/public/imagenes/dih.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/public/imagenes/grad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/public/imagenes/ing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/public/imagenes/md.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/public/imagenes/mde.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/public/imagenes/ol.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/public/imagenes/pl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/public/imagenes/pr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/public/imagenes/tel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/public/imagenes/wd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/views/contacts.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagina/ithink-labs-page/src/app.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/pagina/ithink-labs-page/src/app.controller.ts" afterDir="false" />
-    </list>
+    <list default="true" id="f4185f07-3034-4a23-a8b6-00979a378322" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -46,8 +25,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pagina/ithink-labs-page/public/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="93" selection-start-line="93" selection-end-line="93" />
+            <state relative-caret-position="266">
+              <caret line="126" column="5" lean-forward="true" selection-start-line="126" selection-start-column="5" selection-end-line="126" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../coursera-test/module3_solution/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2648" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../coursera-test/module2_solution/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -65,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/pagina/ithink-labs-page/views/home.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+              <caret line="46" column="44" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -89,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pagina/ithink-labs-page/views/contacts.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+            <state relative-caret-position="272">
+              <caret line="136" column="74" selection-start-line="136" selection-start-column="74" selection-end-line="136" selection-end-column="74" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -125,10 +120,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pagina/ithink-labs-page/views/services.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+            <state relative-caret-position="17">
+              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -201,8 +196,9 @@
       <list>
         <option value="$PROJECT_DIR$/pagina/ithink-labs-page/package.json" />
         <option value="$PROJECT_DIR$/pagina/ithink-labs-page/src/app.controller.ts" />
-        <option value="$PROJECT_DIR$/pagina/ithink-labs-page/views/contacts.ejs" />
         <option value="$PROJECT_DIR$/pagina/ithink-labs-page/views/services.ejs" />
+        <option value="$PROJECT_DIR$/pagina/ithink-labs-page/views/contacts.ejs" />
+        <option value="$PROJECT_DIR$/../coursera-test/module2_solution/css/styles.css" />
         <option value="$PROJECT_DIR$/pagina/ithink-labs-page/public/css/styles.css" />
         <option value="$PROJECT_DIR$/pagina/ithink-labs-page/views/home.ejs" />
       </list>
@@ -305,18 +301,18 @@
       <option name="presentableId" value="Default" />
       <updated>1601013239929</updated>
       <workItem from="1601013241081" duration="2302000" />
-      <workItem from="1601051259680" duration="13959000" />
+      <workItem from="1601051259680" duration="19495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16261000" />
+    <option name="totallyTimeSpent" value="21797000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -332,7 +328,7 @@
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="TypeScript" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32960895" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="12" side_tool="true" visible="true" weight="0.32960895" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -390,10 +386,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pagina/ithink-labs-page/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pagina/ithink-labs-page/views/contacts.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        <state relative-caret-position="272">
+          <caret line="136" column="74" selection-start-line="136" selection-start-column="74" selection-end-line="136" selection-end-column="74" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -426,10 +429,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pagina/ithink-labs-page/views/services.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+        <state relative-caret-position="17">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -456,24 +459,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pagina/ithink-labs-page/src/main.ts">
+    <entry file="file://$PROJECT_DIR$/../coursera-test/module2_solution/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        <state relative-caret-position="208">
+          <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pagina/ithink-labs-page/public/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        <state relative-caret-position="266">
+          <caret line="126" column="5" lean-forward="true" selection-start-line="126" selection-start-column="5" selection-end-line="126" selection-end-column="5" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../coursera-test/module3_solution/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2648" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pagina/ithink-labs-page/views/home.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+          <caret line="46" column="44" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
