@@ -13,4 +13,8 @@ export class AppController {
   getServices(@Response() res){
     return res.render('services')
   }
+  @Get('contacts')
+  getContacts(@Response() res){
+    return res.render('contacts')
+  }
 }
