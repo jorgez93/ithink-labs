@@ -1,0 +1,77 @@
+.topnav {
+    background-color: #ffffff;
+    overflow: hidden;
+    text-align: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    z-index:2;
+    transition: margin-left .5s;
+    width: 100%;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+
+
+    height: 70px;
+    display: inline-block;
+    color: #002393;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    float: none;
+
+}
+body, html {
+    height: 100%;
+    margin: 0;
+}
+.CoverImage {
+    background-image: url('../imagenes/buss.jpg');
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    max-width: 100%;
+}
+
+.CoverImage:before {
+    content: "";
+    display: block;
+    padding-bottom: 50%;
+}
+
+.CoverImage1 {
+    background-image: url('../imagenes/dh.jpg');
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    max-width: 100%;
+}
+
+.CoverImage1:before {
+    content: "";
+    display: block;
+    padding-bottom: 50%;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+
+    color: #f37b00;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+    background-color: #0035a8;
+    color: #ffffff;
+
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+    display: none;
+}
